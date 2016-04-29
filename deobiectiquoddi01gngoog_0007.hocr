@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deobiectiquoddi01gngoog_0007.png"; bbox 0 0 3167 4550; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1282 1387 1730 1513">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1282 1387 1730 1513">
+     <span class='ocr_line' id='line_1_1' title="bbox 1282 1387 1730 1513; baseline 0.029 -14"><span class='ocrx_word' id='word_1_1' title='bbox 1282 1387 1730 1513; x_wconf 82' lang='lat' dir='ltr'><strong>PATRI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 456 1679 2552 1814">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 456 1679 2552 1814">
+     <span class='ocr_line' id='line_1_2' title="bbox 456 1679 2552 1814; baseline 0 -8"><span class='ocrx_word' id='word_1_2' title='bbox 456 1723 1130 1806; x_wconf 81' lang='lat' dir='ltr'>CARISSIMO</span> <span class='ocrx_word' id='word_1_3' title='bbox 1187 1679 1600 1814; x_wconf 69' lang='lat' dir='ltr'><strong>ATQUE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1657 1724 2552 1807; x_wconf 78' lang='lat' dir='ltr'>DlLEchsslMo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 978 2001 2038 2061">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 978 2001 2038 2061">
+     <span class='ocr_line' id='line_1_3' title="bbox 978 2001 2038 2061; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 978 2004 1129 2061; x_wconf 87' lang='lat' dir='ltr'><strong>HAS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1162 2004 1614 2061; x_wconf 82' lang='lat' dir='ltr'><strong>LITERARUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1648 2001 2038 2058; x_wconf 79' lang='lat' dir='ltr'>PRIMITIAS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1275 2292 1733 2342">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1275 2292 1733 2342">
+     <span class='ocr_line' id='line_1_4' title="bbox 1275 2292 1733 2342; baseline -0.004 0"><span class='ocrx_word' id='word_1_8' title='bbox 1275 2292 1529 2342; x_wconf 78' lang='lat' dir='ltr'>SACRAS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1571 2293 1733 2341; x_wconf 77' lang='lat' dir='ltr'>ESSE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1974 2902 2167 2940">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1974 2902 2167 2940">
+     <span class='ocr_line' id='line_1_5' title="bbox 1974 2902 2167 2940; baseline 0.01 -2"><span class='ocrx_word' id='word_1_10' title='bbox 1974 2902 2167 2940; x_wconf 75' lang='lat' dir='ltr'>VVVVVV</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 2270 3308 2601 3370">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 2270 3308 2601 3370">
+     <span class='ocr_line' id='line_1_6' title="bbox 2270 3308 2601 3370; baseline 0.006 -2"><span class='ocrx_word' id='word_1_11' title='bbox 2270 3308 2601 3370; x_wconf 67' lang='lat' dir='ltr'>Auaron.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
